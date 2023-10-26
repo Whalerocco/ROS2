@@ -1,0 +1,5 @@
+#name of caught turtle to kill
+
+string name
+---
+bool success
